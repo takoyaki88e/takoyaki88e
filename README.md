@@ -5,5 +5,5 @@
 Beginner about develop👶  
 I am learning about development little by little📖✍
 
-![GitHub_status](https://github.com/takoyaki88e/cp-stats-terminal-style/blob/master/github_stats.svg "GitHub status")  
+![GitHub_status](https://github.com/takoyaki88e/terminal_status/blob/master/github_stats.svg "GitHub status")  
 I may add something else if I come up with a story😁
